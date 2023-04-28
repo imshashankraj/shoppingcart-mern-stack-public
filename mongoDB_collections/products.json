@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "644a652f52013608ea8d4a8a"
+  },
+  "name": "Pullover",
+  "description": "Sporty Pullover.",
+  "price": {
+    "$numberDecimal": "44"
+  },
+  "image": "http://localhost:3100/images/jacket.jpg"
+},{
+  "_id": {
+    "$oid": "644a679be3e3bbc25c04203e"
+  },
+  "name": "Watch",
+  "description": "Decent formal watch.",
+  "price": {
+    "$numberDecimal": "89"
+  },
+  "image": "http://localhost:3100/images/watch.jpg"
+},{
+  "_id": {
+    "$oid": "644b655b21bc70dac03a2ab4"
+  },
+  "name": "Brain Boseter Book",
+  "description": "Boost your brain with fun-filled amazing activity book.",
+  "price": {
+    "$numberDecimal": "19"
+  },
+  "image": "http://localhost:3100/images/book.jpg"
+},{
+  "_id": {
+    "$oid": "644a64d24f3e6f9b4fca5e0d"
+  },
+  "name": "Formal Shoes",
+  "description": "Nice formal shoes",
+  "price": {
+    "$numberDecimal": "199"
+  },
+  "image": "http://localhost:3100/images/shoes.jpg"
+}]
